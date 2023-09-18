@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/J2xQBf2/JS.jpg",
+      "name": "Web Development Fundamentals",
+      "details": "An introductory course covering HTML, CSS, and JavaScript fundamentals.",
+      "price": 1200,
+      "durationHours": 2
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/V3C8WQF/CCC.png",
+      "name": "C#(pronounced C sharp)",
+      "details": "Pronounced C sharp is a modern, object-oriented programming language developed by Microsoft. ",
+      "price": 2999,
+      "durationHours": 3
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/Tvwx7nh/C-Pic.png",
+      "name": "C++ Program",
+      "details": "C++ is a powerful and widely used the general-purpose programming language that builds upon the foundation of the C programming language.",
+      "price": 4999,
+      "durationHours": 5
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/vhRdxhX/PHP.jpg",
+      "name": "PHP (Hypertext Preprocessor)",
+      "details": "PHP (Hypertext Preprocessor) is a widely used server-side scripting language designed for web development.",
+      "price": 2499,
+      "durationHours": 10
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/GFSf3MF/React.jpg",
+      "name": "React.js for Beginners",
+      "details": "React, also known as React.js, is an open-source JavaScript library for building user interfaces (UIs).",
+      "price": 6999,
+      "durationHours": 7
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/MSLjSsm/ALgoritham.jpg",
+      "name": "Algorithm ",
+      "details": "An algorithm is a step-by-step procedure or a set of well-defined instructions for solving a particular problem or performing a specific task.",
+      "price": 5999,
+      "durationHours": 4
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/RcbHpHf/SQL.jpg",
+      "name": "MySQL",
+      "details": "MySQL is a popular open-source relational database management system (RDBMS) known for its performance, reliability, and ease of use.",
+      "price": 8999,
+      "durationHours": 2
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/D44679G/Software.jpg",
+      "name": " Software Engineer ",
+      "details": "A software engineer is a professional who designs, develops, tests, and maintains software applications, systems, and solutions.",
+      "price": 7999,
+      "durationHours": 5
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/9pgHQ2V/Python.jpg",
+      "name": "Python programming language",
+      "details": "Python is a high-level, general-purpose programming language known for its simplicity and readability.",
+      "price": 1099,
+      "durationHours": 6
+    }
+  ]
+  
